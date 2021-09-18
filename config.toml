@@ -1,0 +1,7 @@
+[required]
+dir = "build"
+graphqlHost = "127.0.0.1:8001"
+spaHost = "127.0.0.1:8000"
+wsHost = "127.0.0.1:8001"
+
+
