@@ -1,1 +1,1 @@
-const assetPath = '';
+// asset_constants.dart
